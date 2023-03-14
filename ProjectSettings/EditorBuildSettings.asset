@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: b23f990c1837e2344af7b4eccc28736a
+  - enabled: 1
+    path: Assets/Scenes/FaceMask.unity
+    guid: 2e2470f4e21a5044caea5cbfd56467c3
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 0d931d6e2f27d5642b63e82b2f48ecbf, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: ff54c78e3247ee647a086043584076c2, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: df6842fb5bcac6e4f91e127503581f7b, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 76213624eecf0ad4083409b77d3ce689, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 2ee5ece7406fa6e4288f840993cccd1d, type: 2}
