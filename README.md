@@ -7,12 +7,11 @@ ___
 ___
 # Screenshots
 ___
-![screenshot](/ScreenShots/1.jpg)
+![screenshot](/Screenshots/face1.jpeg)
 ___
-![screenshot](/ScreenShots/2.jpg)
+![screenshot](/Screenshots/face1.jpeg)
 ___
-![screenshot](/ScreenShots/3.jpg)
-___
+![screenshot](/Screenshots/face1.jpeg)
 ___
 # Features
 The functionalities used in this project include:
