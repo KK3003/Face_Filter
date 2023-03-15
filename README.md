@@ -9,9 +9,9 @@ ___
 ___
 ![screenshot](/Screenshots/face1.jpeg)
 ___
-![screenshot](/Screenshots/face1.jpeg)
+![screenshot](/Screenshots/face2.jpeg)
 ___
-![screenshot](/Screenshots/face1.jpeg)
+![screenshot](/Screenshots/face3.jpeg)
 ___
 # Features
 The functionalities used in this project include:
